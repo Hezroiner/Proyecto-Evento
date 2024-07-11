@@ -1,0 +1,7 @@
+C:\Documentos\Programacion\Lenguajes\C#\PracticaProyecto\Proyecto-Evento\Proyecto_Evento\obj\Debug\net7.0\Proyecto_Evento.csproj.AssemblyReference.cache
+C:\Documentos\Programacion\Lenguajes\C#\PracticaProyecto\Proyecto-Evento\Proyecto_Evento\obj\Debug\net7.0\Proyecto_Evento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\Programacion\Lenguajes\C#\PracticaProyecto\Proyecto-Evento\Proyecto_Evento\obj\Debug\net7.0\Proyecto_Evento.AssemblyInfoInputs.cache
+C:\Documentos\Programacion\Lenguajes\C#\PracticaProyecto\Proyecto-Evento\Proyecto_Evento\obj\Debug\net7.0\Proyecto_Evento.AssemblyInfo.cs
+C:\Documentos\Programacion\Lenguajes\C#\PracticaProyecto\Proyecto-Evento\Proyecto_Evento\obj\Debug\net7.0\Proyecto_Evento.csproj.CoreCompileInputs.cache
+C:\Documentos\Programacion\Lenguajes\C#\PracticaProyecto\Proyecto-Evento\Proyecto_Evento\obj\Debug\net7.0\Proyecto_Evento.MvcApplicationPartsAssemblyInfo.cs
+C:\Documentos\Programacion\Lenguajes\C#\PracticaProyecto\Proyecto-Evento\Proyecto_Evento\obj\Debug\net7.0\Proyecto_Evento.MvcApplicationPartsAssemblyInfo.cache

@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Entities
 {
-    public class Role
+    public class State
     {
-        public int RoleId { get; set; }
-        public string Type { get; set; }
+        public int StateId { get; set; }
+        public string Name { get; set; }
 
-        public List<User> Users { get; set;}
+        public List<User> Users { get; set; }
     }
 }
