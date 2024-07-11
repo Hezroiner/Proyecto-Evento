@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Documentos\\Programacion\\Lenguajes\\C#\\PracticaProyecto\\Proyecto-Evento\\Proyecto_Evento\\Proyecto_Evento.csproj": {}
+    "C:\\Users\\ozsan\\OneDrive\\Escritorio\\Vacaciones\\Events_Project_Backend\\Proyecto_Evento\\Proyecto_Evento.csproj": {}
   },
   "projects": {
-    "C:\\Documentos\\Programacion\\Lenguajes\\C#\\PracticaProyecto\\Proyecto-Evento\\Entities\\Entities.csproj": {
+    "C:\\Users\\ozsan\\OneDrive\\Escritorio\\Vacaciones\\Events_Project_Backend\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Documentos\\Programacion\\Lenguajes\\C#\\PracticaProyecto\\Proyecto-Evento\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\ozsan\\OneDrive\\Escritorio\\Vacaciones\\Events_Project_Backend\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Documentos\\Programacion\\Lenguajes\\C#\\PracticaProyecto\\Proyecto-Evento\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\Hezron\\.nuget\\packages\\",
-        "outputPath": "C:\\Documentos\\Programacion\\Lenguajes\\C#\\PracticaProyecto\\Proyecto-Evento\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\ozsan\\OneDrive\\Escritorio\\Vacaciones\\Events_Project_Backend\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\ozsan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ozsan\\OneDrive\\Escritorio\\Vacaciones\\Events_Project_Backend\\Entities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Hezron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ozsan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,21 +64,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Documentos\\Programacion\\Lenguajes\\C#\\PracticaProyecto\\Proyecto-Evento\\Proyecto_Evento\\Proyecto_Evento.csproj": {
+    "C:\\Users\\ozsan\\OneDrive\\Escritorio\\Vacaciones\\Events_Project_Backend\\Proyecto_Evento\\Proyecto_Evento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Documentos\\Programacion\\Lenguajes\\C#\\PracticaProyecto\\Proyecto-Evento\\Proyecto_Evento\\Proyecto_Evento.csproj",
+        "projectUniqueName": "C:\\Users\\ozsan\\OneDrive\\Escritorio\\Vacaciones\\Events_Project_Backend\\Proyecto_Evento\\Proyecto_Evento.csproj",
         "projectName": "Proyecto_Evento",
-        "projectPath": "C:\\Documentos\\Programacion\\Lenguajes\\C#\\PracticaProyecto\\Proyecto-Evento\\Proyecto_Evento\\Proyecto_Evento.csproj",
-        "packagesPath": "C:\\Users\\Hezron\\.nuget\\packages\\",
-        "outputPath": "C:\\Documentos\\Programacion\\Lenguajes\\C#\\PracticaProyecto\\Proyecto-Evento\\Proyecto_Evento\\obj\\",
+        "projectPath": "C:\\Users\\ozsan\\OneDrive\\Escritorio\\Vacaciones\\Events_Project_Backend\\Proyecto_Evento\\Proyecto_Evento.csproj",
+        "packagesPath": "C:\\Users\\ozsan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ozsan\\OneDrive\\Escritorio\\Vacaciones\\Events_Project_Backend\\Proyecto_Evento\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Hezron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ozsan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,8 +96,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Documentos\\Programacion\\Lenguajes\\C#\\PracticaProyecto\\Proyecto-Evento\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Documentos\\Programacion\\Lenguajes\\C#\\PracticaProyecto\\Proyecto-Evento\\Entities\\Entities.csproj"
+              "C:\\Users\\ozsan\\OneDrive\\Escritorio\\Vacaciones\\Events_Project_Backend\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\ozsan\\OneDrive\\Escritorio\\Vacaciones\\Events_Project_Backend\\Entities\\Entities.csproj"
               }
             }
           }
@@ -93,6 +106,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -104,6 +122,12 @@
               "version": "[7.0.3, )"
             },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.20, )"
             },
@@ -141,7 +165,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
